@@ -48,6 +48,7 @@ section {
     line-height: 1.8em;
     padding-left: 30px;
     font-size: 3.5vw;
+    box-shadow: none;
 }
 
 section.normal {
